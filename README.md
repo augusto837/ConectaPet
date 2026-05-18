@@ -1,1 +1,6 @@
 # ConectaPet
+
+Resumo
+
+O presente trabalho apresenta o desenvolvimento de um mecanismo de automação residencial, tratando-se de um protótipo de alimentador automático para pets, utilizando tecnologias de Internet das Coisas (IoT). O sistema foi desenvolvido com um microcontrolador ESP32 integrado com a plataforma Blynk, o que permite o acionamento remoto do servo motor responsável pela liberação de ração. O projeto teve como objetivo desenvolver uma solução de baixo custo capaz de auxiliar tutores na alimentação de animais domésticos de forma automatizada e remota, pela necessidade de conciliar rotinas profissionais e acadêmicas com os cuidados necessários para os animais. A metodologia envolveu pesquisa bibliográfica e mercadológica, definição dos componentes eletrônicos, montagem do circuito em protoboard, desenvolvimento do código em linguagem C++ no ambiente Arduino IDE e integração com dispositivo móvel. Os testes realizados demonstraram o funcionamento satisfatório do sistema, permitindo o controle remoto do mecanismo de abertura e fechamento do alimentador por meio de dispositivo móvel conectado à internet, de modo que foi possível demonstrar a viabilidade da aplicação de tecnologias IoT em soluções de automação residencial.
+
